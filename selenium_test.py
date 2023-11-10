@@ -40,7 +40,7 @@ while True:
     }
     """
     driver.execute_script(script)
-    sleep(10)
+    sleep(5)
 
     # Safely quit our driver
     driver.quit()
